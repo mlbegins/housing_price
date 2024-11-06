@@ -1,0 +1,38 @@
+# Ignore VS Code files
+.vscode/
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore pyenv-related files
+.python-version
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore pip cache files
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Ignore log files
+*.log
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore additional IDE configuration files
+.idea/
+
+# Ignore macOS generated files
+.DS_Store
+
+# Ignore editor backup files
+*~
+*.swp
